@@ -17,5 +17,12 @@ public class Utility {
 	public void m4() {
 		System.out.println("Utility.m4()--completed");
 	}
+	public void m2() {
+		System.out.println("Utility.m2()");
+	}
+
+	public void m3() {
+System.out.println("Utility.m3()...complete");
+	}
 
 }
