@@ -9,7 +9,7 @@ public class Utility {
 	}
 
 	public void m1() {
-		System.out.println("utility clss m1() : 12345");
+		System.out.println("utility class m1() : abcde");
 	}
 
 }
