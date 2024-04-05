@@ -10,6 +10,8 @@ public static void main(String[] args){
 	int a=s.nextInt();
 	int b=s.nextInt();
 	int c=s.nextInt();
+
+	//call the average() to print the result
 	 average(a,b,c);
 	}
 }
